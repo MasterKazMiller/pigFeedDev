@@ -1,6 +1,6 @@
 [
   {
-    "op": "add",
+    "op": "addmerge",
     "path": "/attributes/contentConfig/-",
     "value": {
       "code": "pigfeed",
@@ -35,7 +35,7 @@
   },
 
   {
-    "op": "add",
+    "op": "addmerge",
     "path": "/textures/contents-pigfeed",
     "value": { "base": "pigfeed:item/slop" },
     "file": "game:blocktypes/wood/trough-large"
