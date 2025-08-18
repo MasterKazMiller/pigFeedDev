@@ -1,0 +1,8 @@
+{
+    "type": "content",
+    "modid": "pigfeed",
+    "name": "Pig feed",
+    "description": "Adds pig feed",
+    "authors": ["VulcanoLV"],
+    "version": "1.0.8"
+}

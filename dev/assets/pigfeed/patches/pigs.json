@@ -1,0 +1,25 @@
+[
+    {
+        "op": "add",
+        "path": "/attributes/creatureDiet/foodTags/-",
+        "value": "pigfeed",
+        "file": "game:entities/land/pig-wild-female.json",
+        "side": "Server"
+      },
+  
+      {
+        "op": "add",
+        "path": "/attributes/creatureDiet/foodTags/-",
+        "value": "pigfeed",
+        "file": "game:entities/land/pig-wild-male.json",
+        "side": "Server"
+      },
+  
+      {
+        "op": "add",
+        "path": "/attributes/creatureDiet/foodTags/-",
+        "value": "pigfeed",
+        "file": "game:entities/land/pig-wild-piglet.json",
+        "side": "Server"
+      }
+]

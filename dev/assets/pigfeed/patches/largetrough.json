@@ -1,0 +1,44 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/contentConfig/-",
+    "value": {
+      "code": "pigfeed",
+      "content": {
+        "type": "item",
+        "code": "pigfeed:pigfeed"
+      },
+      "quantityPerFillLevel": 1,
+      "maxFillLevels": 16,
+      "textureCode": "contents-pigfeed",
+      "shapesPerFillLevel": [
+        "block/wood/trough/large/grainfill1",
+        "block/wood/trough/large/grainfill1",
+        "block/wood/trough/large/grainfill1",
+        "block/wood/trough/large/grainfill1",
+        "block/wood/trough/large/grainfill2",
+        "block/wood/trough/large/grainfill2",
+        "block/wood/trough/large/grainfill2",
+        "block/wood/trough/large/grainfill2",
+        "block/wood/trough/large/grainfill3",
+        "block/wood/trough/large/grainfill3",
+        "block/wood/trough/large/grainfill3",
+        "block/wood/trough/large/grainfill3",
+        "block/wood/trough/large/grainfill4",
+        "block/wood/trough/large/grainfill4",
+        "block/wood/trough/large/grainfill4",
+        "block/wood/trough/large/grainfill4"
+      ]
+    },
+    "file": "game:blocktypes/wood/trough-large.json",
+    "side": "Server"
+  },
+
+  {
+    "op": "add",
+    "path": "/textures/contents-pigfeed",
+    "value": { "base": "pigfeed:item/slop" },
+    "file": "game:blocktypes/wood/trough-large"
+
+  }
+]
