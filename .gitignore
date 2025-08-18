@@ -1,6 +1,6 @@
 # Build script and generated files
 build_mod.py
-chickenfeed_v*.zip
+pigfeed_v*.zip
 
 # Python cache
 __pycache__/
