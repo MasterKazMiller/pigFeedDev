@@ -16,7 +16,7 @@
           },
           "S": {
             "type": "block",
-            "code": "game:bowl-fired"
+            "code": "game:bowl-*-fired"
           }
         },
         "attributes": {
@@ -124,7 +124,7 @@
           },
           "S": {
             "type": "block",
-            "code": "game:bowl-fired"
+            "code": "game:bowl-*-fired"
           }
         },
         "recipeGroup": 1,
